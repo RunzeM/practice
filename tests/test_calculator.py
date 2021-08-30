@@ -7,6 +7,7 @@ def test_add():
 
 <<<<<<< HEAD
 def test_substract():
-    assert Cal.substract(3,2)=1
+
+    assert Cal.substract(5,3)=2
     assert Cal.substract(2,1)=1
 
